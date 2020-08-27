@@ -1,0 +1,7 @@
+- training time very long 
+- it seems the code is not right
+- besok pagi di run ulang 
+
+
+Epoch 50/50
+1200/1200 [==============================] - 83s 69ms/step - loss: 40328.3333 - mae: 198.5114 - mse: 40328.3320

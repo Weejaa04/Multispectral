@@ -1,0 +1,11 @@
+Progress:
+
+1. Problem: how to show only the unique name and yield in excel?
+2. Processs to read the multispectral image
+- read the x_train one by one
+- from the excel file gather the information to get the filename of the image 
+
+- read the image and put it in array. hanya spectral 1-6 saja yang dipakai 
+ 
+ 
+
